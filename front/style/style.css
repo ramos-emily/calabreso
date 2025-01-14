@@ -75,7 +75,6 @@ button{
     padding-left: 120px;
     border: none;
     font-size: 25px;
-    
 }
 
 label, h1, h2{
@@ -86,4 +85,5 @@ label, h1, h2{
 
 input{
     font-size: 16px;
+    color: black;
 }
